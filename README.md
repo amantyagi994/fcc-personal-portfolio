@@ -1,1 +1,1 @@
-# fcc-portfolio
+# fcc-personal-portfolio
